@@ -1,0 +1,15 @@
+
+body {
+    width: 1000px;
+    margin: 50px auto;
+    /* border: 1px solid #000; */
+}
+
+#picturesHere {
+    display: flex;
+    justify-content: space-between;
+    
+}
+img {
+    cursor: pointer;
+}
